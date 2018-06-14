@@ -1,1 +1,1 @@
-# glossaire-promo-1
+# glossaire
