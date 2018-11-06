@@ -40,3 +40,6 @@
 12. UI : User Interface, est ni plus ni moins que l'interface d'un site Web. L'UI et l'UX sont souvent complémentaire et ne vont jamais séparément.
 
 13. DRY : Dont Repeat Yourself : est une méthode de travail, un développeur est faignéant au moins de code il tapera au mieux il se portera. Quand vous avez 3-4 fois le même code qui se répète alors il n'est pas en " DRY ".
+
+14. RTFM : "Read The Fuc**** Manual !!!" 
+Pour faire court, si la réponse à votre question se trouve dans la documentation, ne la posez pas, au risque de vous faire remballer. Lisez la documentation ! ;)
