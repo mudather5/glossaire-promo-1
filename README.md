@@ -43,3 +43,5 @@
 
 14. RTFM : "Read The Fuc**** Manual !!!" 
 Pour faire court, si la réponse à votre question se trouve dans la documentation, ne la posez pas, au risque de vous faire remballer. Lisez la documentation ! ;)
+
+15. CTA : Un CTA ou Call to Action est un bouton contiens un texte qui guide l'utilisateur à cliquer dessus. Généralement utilisé par un site pour diriger l'utilisateur vers une conversion.
